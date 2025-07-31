@@ -95,4 +95,4 @@ Each script is documented with comments to allow reuse or adaptation to other ci
 
 If you use these scripts or any adaptation of them, please cite:
 
-> Dimas, P. (2025). *Modeling Transit-Oriented Development: A Land-Use Approach for Urban Decarbonization*. University of Twente. 
+Paulo Dimas. (2025). TOD Simulation Scripts and Data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16635783

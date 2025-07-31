@@ -4,7 +4,7 @@ This repository contains spatial simulation scripts and supporting files develop
 
 **"Modeling Transit-Oriented Development: A Land-Use Approach for Urban Decarbonization"**  
 *Paulo Dimas, 2025*
-DOI: 
+DOI: (to be updated)
 Master’s Thesis, University of Twente
 
 The simulation framework adapts and extends the SIMLANDER land-use change model using a set of original R scripts to evaluate decarbonization scenarios based on Transit-Oriented Development (TOD) principles. The main case study is the metropolitan area of Rome.
@@ -96,8 +96,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 If you use this code in academic research, please cite:
 
-Dimas, P. (2025). *Modeling Transit-Oriented Development: A Land-Use Approach for Urban Decarbonization*. University of Twente.  
-DOI: [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
+Paulo Dimas. (2025). TOD Simulation Scripts and Data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16635783
 
 **BibTeX**
 ```bibtex
@@ -106,7 +105,7 @@ DOI: [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
   author    = {Paulo Dimas},
   year      = {2025},
   school    = {University of Twente},
-  url       = {https://github.com/your-username/TOD-Simulation}
+  url       = {https://github.com/Raverino/TOD_modelling}
 }
 ```
 

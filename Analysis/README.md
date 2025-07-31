@@ -52,4 +52,4 @@ Includes:
 
 If you use this data in your own academic work, please cite:
 
-> Dimas, P. (2025). *Modeling Transit-Oriented Development: A Land-Use Approach for Urban Decarbonization*. Master’s Thesis, University of Twente.
+Paulo Dimas. (2025). TOD Simulation Scripts and Data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16635783
