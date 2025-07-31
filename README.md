@@ -24,11 +24,11 @@ The simulation framework adapts and extends the SIMLANDER land-use change model 
 ## Online Files
 
 Due to the large size of the examples, you can find it online through the [link](https://drive.google.com/drive/folders/1bI6lVB7FmtDeNoXZKM9h4__mRc65CiLl?usp=sharing) 
-
+```
 ├── /inputs/             ← Land-use maps, accessibility layers, zoning constraints
 ├── /outputs/            ← Simulation results, emissions tables, final rasters
 ---
-
+```
 ## 📜 Description of Scripts
 
 This repository includes eight R scripts (three of them are scenarios) organized to perform land-use simulation modeling, accessibility evaluation, and TOD scenario execution.
