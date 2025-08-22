@@ -4,7 +4,7 @@ This repository contains spatial simulation scripts and supporting files develop
 
 **"Modeling Transit-Oriented Development: A Land-Use Approach for Urban Decarbonization"**  
 *Paulo Dimas, 2025*
-DOI: (to be updated)
+Thesis available at: https://purl.utwente.nl/essays/108255
 Master’s Thesis, University of Twente
 
 The simulation framework adapts and extends the SIMLANDER land-use change model using a set of original R scripts to evaluate decarbonization scenarios based on Transit-Oriented Development (TOD) principles. The main case study is the metropolitan area of Rome.
